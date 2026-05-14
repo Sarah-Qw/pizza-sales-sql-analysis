@@ -1,8 +1,8 @@
 # pizza-sales-sql-analysis
 
-Pizza Sales Analysis — SQL & Power BI
+# Pizza Sales Analysis — SQL & Power BI
 
-Overview
+## Overview 
 An end-to-end analysis of a pizza restaurant's sales data, answering 20 business questions using SQL and visualizing the key findings in Power BI.
 
 Business Questions Addressed
