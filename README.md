@@ -33,6 +33,8 @@ An end-to-end analysis of a pizza restaurant's sales data, answering 20 business
 - Large pizzas bring in the most revenue even though they are not the most ordered size.
 - A small number of pizza types make up most of the total revenue, which means the menu could be simplified.
 - Weekends are busier than weekdays, opening the door for weekend-only promotions.
+- The Classic category leads in both total orders and revenue.
+- The Veggie category showed the lowest revenue contribution despite moderate order volume, indicating weaker profitability compared to other categories.
 
 ## Dashborad
 <img width="1356" height="761" alt="image" src="https://github.com/user-attachments/assets/611f6692-4530-4da3-a404-70be4b891689" />
